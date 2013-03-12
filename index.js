@@ -6,6 +6,7 @@ var util = require('util'),
 exports = module.exports = FacebookChat;
 
 /**
+/**
  * Facebook chat client
  * @param params  Required params for connection
  * @param params.facebookId  User Facebook ID
